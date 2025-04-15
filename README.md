@@ -13,6 +13,9 @@
       - Came back to check some code things and discovered that when loading cypto data only throws an unknown error, when I checked at coincap.io website discovered that now they've implemented v3 of their api and some access plans (one for free), but in order to keep on going you must request for an api key at discord so, for that reason code is no longer showing this info, maybe one day I'll ask for a key...
 
       - well, it's time to upload this project for the very first time
+    
+## 2024
+
    - 17 Jun 2024
       - I'll just upload this, since it's been a while since I haven't do anything here, but can't remember if made any advances after last note, anyway I need to upload this to git and use it in another computer.
 
