@@ -1,8 +1,18 @@
 # list_interface
-   This app initially was made to implement different types of views and then filling them with data whether from an api or a firebase container.
+   This app initially was made to learn implementation of different types of views and then filling them with data whether from an api or a fire
 
+   It also has divided code implementations for the same purposes, one using imperative programming and other with functional programming.
 
-## Change log
+   Last thing I remember it works with coincap.io api v2 for crypto currency info and another to load info from Rick & Morty cartoon series, as long as I remember I've created a separated project to focus only in loading that R&M info, but not sure if I uploaded it to github...
+
+# Change log
+
+## 2025
+
+   - 15 Apr 2025
+      - Came back to check some code things and discovered that when loading cypto data only throws an unknown error, when I checked at coincap.io website discovered that now they've implemented v3 of their api and some access plans (one for free), but in order to keep on going you must request for an api key at discord so, for that reason code is no longer showing this info, maybe one day I'll ask for a key...
+
+      - well, it's time to upload this project for the very first time
    - 17 Jun 2024
       - I'll just upload this, since it's been a while since I haven't do anything here, but can't remember if made any advances after last note, anyway I need to upload this to git and use it in another computer.
 
